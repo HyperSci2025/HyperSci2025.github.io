@@ -16,6 +16,7 @@ Here is the tentative schedule for the workshop:
 | 10:20 - 11:50 | Paper Presentations       |
 | 11:50 - 12:40 | Invited talk              |
 | 12:40 - 13:00 | Closing Remarks           |
+
 ---
 
 ### Keynote Speakers 
