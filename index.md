@@ -64,11 +64,11 @@ Workshop day: tbd, 2025 " align="left" color="warning" %}
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Salerno</p></span>
 </div>
 <div style="float: left; margin: 10px">
-<a href="https://sites.google.com/site/cordasco/">
-  <img src="images/cordasco.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+<a href="https://spagnuolocarmine.github.io/">
+  <img src="images/spagnuolo.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://sites.google.com/site/cordasco/"><b>Gennaro Cordasco</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>Università della Campania</p></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://spagnuolocarmine.github.io/"><b>Carmine Spagnuolo</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Salerno</p></span>
 </div>
  
 <div style="float: left; margin: 10px">

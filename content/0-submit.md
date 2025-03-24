@@ -17,7 +17,7 @@ Paper submissions (full, short, and abstract) must use the [IEEE 2-column templa
 The review process follows the guidelines of the [main conference](https://asonam.cpsc.ucalgary.ca/2025/CFP.php). At least two reviewers will evaluate submissions on the basis of relevance, technical quality, potential impact, and clarity.
 To submit a paper, please use the following web portal.
 
-{% include button.html text="Submit via EasyChair (tbd)" link="" color="danger" %}
+{% include button.html text="Submit via EasyChair" link="https://easychair.org/conferences2/submissions?a=34103093" color="danger" %}
 
 ### Publication
 All accepted workshop papers will be published in the dedicated proceedings offered by CEUR Workshop Proceedings.
