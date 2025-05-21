@@ -17,7 +17,7 @@ Paper submissions (full, short, and abstract) must use the [Springer template](h
 The review process follows the guidelines of the [main conference](https://asonam.cpsc.ucalgary.ca/2025/CFP.php). At least two reviewers will evaluate submissions on the basis of relevance, technical quality, potential impact, and clarity.
 To submit a paper, please use the following web portal.
 
-{% include button.html text="Submit via EasyChair" link="https://easychair.org/conferences2/submissions?a=34103093" color="danger" %}
+{% include button.html text="Submit via EasyChair" link="https://easychair.org/conferences/?conf=hypersci2025" color="danger" %}
 
 ### Publication
 HyperSCI Co-Chairs are also open to the possibility of publishing a **special issue of a journal** for the best papers of the workshop.
