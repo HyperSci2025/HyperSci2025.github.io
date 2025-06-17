@@ -31,9 +31,9 @@ Relevant papers cover one or more of the following topics:
 
 ## Important Dates
 
-{% include alert.html text="Paper Submission: June 15, 2025 (23:59 AoE)<br>
-Author Notification: July 1, 2025 (23:59 AoE)<br>
-Camera-ready: July 11, 2025 (23:59 AoE)<br>
+{% include alert.html text="Paper Submission: July 1, 2025 (23:59 AoE)<br>
+Author Notification: July 7, 2025 (23:59 AoE)<br>
+Camera-ready: July 15, 2025 (23:59 AoE)<br>
 Workshop day: tbd, 2025 " align="left" color="warning" %}
 
 
