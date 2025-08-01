@@ -6,8 +6,9 @@ layout: page
 # HyperSCI
 ## 2nd International Workshop on Theory and Applications of Hypernetwork Science
 <sup>[International Conference on Advances in Social Networks Analysis and Mining (ASONAM)](https://asonam.cpsc.ucalgary.ca/2025/)</sup><br>
-<sup>August 25-28, 2025</sup><br>
-<sup>Niagara Falls, Ontario, Canada</sup>
+<sup>August 25th, 2025</sup><br>
+<sup>Drummond Room, Wyndham Grand Fallsview, Niagara Falls, Ontario, Canada.
+</sup>
 
 
 Traditionally, complex systems have been successfully studied through graphs abstracting the underlying relations with vertices and edges connecting pairs of interacting components. Yet, many real-world systems are **characterized by group interactions** that cannot be described simply in terms of dyads. Studying such systems requires new mathematical frameworks and scientific methodologies for its investigation. **Hypergraphs** are the perfect candidates to tackle this task, as these structures are a generalization of graphs where a (hyper)edge allows the connection of an arbitrary number of vertices. However, the powerful expressiveness of hypergraphs has a few drawbacks: dealing with the complexity of such data structures and the need for appropriate tools and algorithms for their study.
